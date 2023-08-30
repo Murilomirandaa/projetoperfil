@@ -1,4 +1,4 @@
-h1 align="centro"> Dev Perfil Murilo Miranda </h1>
+<h1 align="centro"> Dev Perfil Murilo Miranda </h1>
 
 <p align="centro">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
