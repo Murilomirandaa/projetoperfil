@@ -66,8 +66,7 @@ body * {
   z-index: 1;
 }
 .light #switch button {
-  right: 0;
-  left: initial;
+  animation: slid-in 0.4s;
 }
 
 #switch span {
@@ -126,4 +125,13 @@ ul li a:hover {
 footer {
   padding: 24px 0;
   text-align: center;
+}
+
+@keyframes slide-in {
+  from {
+    left: 0;
+  }
+  to {
+    left: 50%;
+  }
 }
